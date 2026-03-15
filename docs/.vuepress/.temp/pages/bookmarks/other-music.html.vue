@@ -1,0 +1,16 @@
+<template><div><h1 id="other-free-music" tabindex="-1"><a class="header-anchor" href="#other-free-music"><span>Other Free Music</span></a></h1>
+<ul>
+<li><a href="https://www.mefcl.com/musictools/542" target="_blank" rel="noopener noreferrer">音乐试听下载器MusicTools</a></li>
+<li><a href="http://fonger.top/" target="_blank" rel="noopener noreferrer">方格音乐</a></li>
+<li><a href="https://flac.life/" target="_blank" rel="noopener noreferrer">无损生活 - 全网无损音乐免费下载，音乐搜索,音乐在线试听,下载,在线解析网</a></li>
+<li><a href="https://cdkm.com/cn/cut-audio" target="_blank" rel="noopener noreferrer">在线剪切MP3、AAC、M4A、OGG或WAV音频</a></li>
+<li><a href="https://www.52pojie.cn/thread-1165666-1-1.html" target="_blank" rel="noopener noreferrer">【音乐软件】Audiomack免费强大的音乐软件（有ASMR，汉化版抽空发上来) - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn</a></li>
+<li><a href="https://github.com/imsyy/SPlayer/releases" target="_blank" rel="noopener noreferrer">Releases · imsyy/SPlayer</a></li>
+<li><a href="https://github.com/iAJue/MoeKoeMusic?tab=readme-ov-file#js-repo-pjax-container" target="_blank" rel="noopener noreferrer">GitHub - iAJue/MoeKoeMusic?tab=readme-ov-file#js-repo-pjax-container: 一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuGou that supports Windows / macOS / Linux :electron:</a></li>
+<li><a href="https://github.com/AZ-Studio-2023/AZMusicDownloader/releases/tag/v2.5.0" target="_blank" rel="noopener noreferrer">GitHub - AZ-Studio-2023/AZMusicDownloader/releases/tag/v2.5.0: AZ音乐下载器 - 优雅地下载音乐 - 基于多API和QFluentWidgets | Download music gracefully</a></li>
+<li><a href="https://pan.quark.cn/s/983cec989942#/list/share" target="_blank" rel="noopener noreferrer">beyond</a></li>
+<li><a href="https://music.gimhoy.com/list" target="_blank" rel="noopener noreferrer">音乐列表 | Gimhoy音乐盘 - 无限制免费MP3外链 您的私人网络音乐库| music.Gimhoy.com</a></li>
+</ul>
+</div></template>
+
+

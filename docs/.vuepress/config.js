@@ -5,33 +5,51 @@ import { webpackBundler } from '@vuepress/bundler-webpack'
 
 export default defineUserConfig({
   lang: 'zh-CN',
-  base: '/web/', 
+  base: '/web/',
   title: 'Web by xy',
   description: 'My first VuePress Site',
 
   theme: defaultTheme({
     logo: 'https://vuejs.press/images/hero.png',
-
     navbar: [
-      '/',
+      '/',                           // 首页
+      // 如果已经有了 '/' 指向首页，下面这行可以省略，避免重复
+      // {
+      //   text: '首页',
+      //   link: '/',
+      // },
       {
-        text: '首页',
-        link: '/',
-      },
-      {
-        text: 'Category',
-        link: '/category/',
+        text: '分类',
+        link: '/category/',          // 博客分类页，需要插件生成
       },
     ],
+
+    // 侧边栏配置：为 /bookmarks/ 下的所有页面提供统一的书签列表
+    sidebar: {
+      '/bookmarks/': [
+        {
+          text: '📚 书签分类',
+          children: [
+            '/bookmarks/favorites.md',
+            '/bookmarks/other.md',
+            '/bookmarks/system-tools.md',
+            '/bookmarks/minecraft.md',
+            '/bookmarks/github.md',
+            '/bookmarks/free-game.md',
+            '/bookmarks/lx-music.md',
+            '/bookmarks/other-music.md',
+          ],
+        },
+      ],
+    },
   }),
 
   plugins: [
     blogPlugin({
-      // Only files under posts are articles
+      // 只将 posts 目录下的文件视为文章
       filter: ({ filePathRelative }) =>
         filePathRelative ? filePathRelative.startsWith('posts/') : false,
 
-      // Getting article info
       getInfo: ({ frontmatter, title, data }) => ({
         title,
         author: frontmatter.author || '',
@@ -39,13 +57,11 @@ export default defineUserConfig({
         category: frontmatter.category || [],
         tag: frontmatter.tag || [],
         excerpt:
-          // Support manually set excerpt through frontmatter
           typeof frontmatter.excerpt === 'string'
             ? frontmatter.excerpt
             : data?.excerpt || '',
       }),
 
-      // Generate excerpt for all pages excerpt those users choose to disable
       excerptFilter: ({ frontmatter }) =>
         !frontmatter.home &&
         frontmatter.excerpt !== false &&
@@ -55,28 +71,29 @@ export default defineUserConfig({
         {
           key: 'category',
           getter: (page) => page.frontmatter.category || [],
-          layout: 'Category',
-          itemLayout: 'Category',
+          // 如果你还没有创建 Category.vue 布局组件，请先注释掉下面两行，使用默认布局
+          // layout: 'Category',
+          // itemLayout: 'Category',
           frontmatter: () => ({
-            title: 'Categories',
+            title: '分类',
             sidebar: false,
           }),
           itemFrontmatter: (name) => ({
-            title: `Category ${name}`,
+            title: `分类：${name}`,
             sidebar: false,
           }),
         },
         {
           key: 'tag',
           getter: (page) => page.frontmatter.tag || [],
-          layout: 'Tag',
-          itemLayout: 'Tag',
+          // layout: 'Tag',
+          // itemLayout: 'Tag',
           frontmatter: () => ({
-            title: 'Tags',
+            title: '标签',
             sidebar: false,
           }),
           itemFrontmatter: (name) => ({
-            title: `Tag ${name}`,
+            title: `标签：${name}`,
             sidebar: false,
           }),
         },
@@ -85,25 +102,19 @@ export default defineUserConfig({
       type: [
         {
           key: 'article',
-          // Remove archive articles
           filter: (page) => !page.frontmatter.archive,
-          layout: 'Article',
+          // layout: 'Article',
           frontmatter: () => ({
-            title: 'Articles',
+            title: '文章',
             sidebar: false,
           }),
-          // Sort pages with time and sticky
           sorter: (pageA, pageB) => {
             if (pageA.frontmatter.sticky && pageB.frontmatter.sticky)
               return pageB.frontmatter.sticky - pageA.frontmatter.sticky
-
-            if (pageA.frontmatter.sticky && !pageB.frontmatter.sticky) return -1
-
-            if (!pageA.frontmatter.sticky && pageB.frontmatter.sticky) return 1
-
+            if (pageA.frontmatter.sticky) return -1
+            if (pageB.frontmatter.sticky) return 1
             if (!pageB.frontmatter.date) return 1
             if (!pageA.frontmatter.date) return -1
-
             return (
               new Date(pageB.frontmatter.date).getTime() -
               new Date(pageA.frontmatter.date).getTime()
@@ -112,15 +123,13 @@ export default defineUserConfig({
         },
         {
           key: 'timeline',
-          // Only article with date should be added to timeline
           filter: (page) => page.frontmatter.date instanceof Date,
-          // Sort pages with time
           sorter: (pageA, pageB) =>
             new Date(pageB.frontmatter.date).getTime() -
             new Date(pageA.frontmatter.date).getTime(),
-          layout: 'Timeline',
+          // layout: 'Timeline',
           frontmatter: () => ({
-            title: 'Timeline',
+            title: '时间线',
             sidebar: false,
           }),
         },

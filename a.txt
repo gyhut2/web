@@ -1,0 +1,6 @@
+# 1. 构建静态文件
+pnpm docs:build
+启动本地服务：
+pnpm docs:dev
+推送：
+git push -u origin main
