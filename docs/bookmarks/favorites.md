@@ -20,3 +20,5 @@
 
 ## 🎶 Other Music
 请查看 [Other Music](other-music.md)
+
+另外，你也可以访问 [老板index](http://cqxy.qzz.io/1index.html)。
