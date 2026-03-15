@@ -4,9 +4,9 @@ import { defineUserConfig } from 'vuepress'
 import { webpackBundler } from '@vuepress/bundler-webpack'
 
 export default defineUserConfig({
-  lang: 'en-US',
-
-  title: 'VuePress',
+  lang: 'zh-CN',
+  base: '/web/', 
+  title: 'Web by xy',
   description: 'My first VuePress Site',
 
   theme: defaultTheme({
@@ -15,20 +15,12 @@ export default defineUserConfig({
     navbar: [
       '/',
       {
-        text: 'Article',
-        link: '/article/',
+        text: '首页',
+        link: '/',
       },
       {
         text: 'Category',
         link: '/category/',
-      },
-      {
-        text: 'Tag',
-        link: '/tag/',
-      },
-      {
-        text: 'Timeline',
-        link: '/timeline/',
       },
     ],
   }),
