@@ -25,24 +25,32 @@ export default defineUserConfig({
     ],
 
     // 侧边栏配置：为 /bookmarks/ 下的所有页面提供统一的书签列表
-    sidebar: {
-      '/bookmarks/': [
-        {
-          text: '📚 书签分类',
-          children: [
-            '/bookmarks/favorites.md',
-            '/bookmarks/other.md',
-            '/bookmarks/system-tools.md',
-            '/bookmarks/minecraft.md',
-            '/bookmarks/github.md',
-            '/bookmarks/free-game.md',
-            '/bookmarks/lx-music.md',
-            '/bookmarks/other-music.md',
-          ],
-        },
-      ],
-    },
-  }),
+  sidebar: {
+    '/': [
+      {
+        text: '博客',
+        children: [
+          '/posts/hello-world.md',
+          { text: '分类', link: '/category/' },
+          { text: '标签', link: '/tag/' },
+        ],
+      },
+      {
+        text: '📚 书签分类',
+        children: [
+          '/bookmarks/favorites.md',
+          '/bookmarks/system-tools.md',
+          '/bookmarks/minecraft.md',
+          '/bookmarks/github.md',
+          '/bookmarks/free-game.md',
+          '/bookmarks/lx-music.md',
+          '/bookmarks/other-music.md',
+          '/bookmarks/other.md',
+        ],
+      },
+    ],
+  },
+}),
 
   plugins: [
     blogPlugin({

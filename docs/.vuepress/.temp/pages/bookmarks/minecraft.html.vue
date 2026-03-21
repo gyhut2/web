@@ -119,6 +119,7 @@
 <li><a href="https://bbsmc.net/modpack/purecreate6.0" target="_blank" rel="noopener noreferrer">机械动力6.0整合 - 我的世界 整合包</a></li>
 <li><a href="https://github.com/Altnoir/PoopSkyMod" target="_blank" rel="noopener noreferrer">空中厕所2</a></li>
 <li><a href="https://www.mcmod.cn/modpack/885.html" target="_blank" rel="noopener noreferrer">[RNA]路网通途 / 更好的我的世界铁路 (Railway Network Access) - MC百科|最大的Minecraft中文MOD百科</a></li>
+<li><a href="https://www.xyebbs.com/res-id/NSKT?tab=description" target="_blank" rel="noopener noreferrer">新：模拟大都市 | XyeBBS - 我的世界中文论坛</a></li>
 </ul>
 <h2 id="插件" tabindex="-1"><a class="header-anchor" href="#插件"><span>插件</span></a></h2>
 <ul>

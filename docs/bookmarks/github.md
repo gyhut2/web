@@ -37,6 +37,7 @@
 - [GitHub - zyedidia/eget: Easily install prebuilt binaries from GitHub.](https://github.com/zyedidia/eget)
 - [GitHub - pages-cms/pages-cms: The No-Hassle CMS for Static Sites Generators](https://github.com/pages-cms/pages-cms)
 - [GitHub - SteamRE/DepotDownloader: Steam depot downloader utilizing the SteamKit2 library.](https://github.com/SteamRE/DepotDownloader)
+- [Release v1.2.309.0 · jayfunc/BetterLyrics · GitHub](https://github.com/jayfunc/BetterLyrics/releases/tag/v1.2.309.0)
 
 ## Schedule
 - [【班级电脑软件推荐】电教福音！自制电子桌面课程表_哔哩哔哩_bilibili](https://github.com/EnderWolf006/ElectronClassSchedule)
@@ -48,3 +49,4 @@
 - [首页 | Awesome-Class-Softwares](https://jursin.github.io/Awesome-Class-Softwares-Web/)
 - [智教联盟论坛](https://forum.smart-teach.cn/)
 - [GitHub - ExamAware/ExamSchedule: 静态版本的考试看板，可自行部署](https://github.com/examaware/ExamSchedule)
+- [GitHub - HelloGaoo/SeevvoDownloader: SEEVVO全家桶一剑下崽弃 · GitHub](https://github.com/HelloGaoo/SeevvoDownloader)

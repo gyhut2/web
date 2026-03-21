@@ -37,6 +37,7 @@
 <li><a href="https://github.com/zyedidia/eget" target="_blank" rel="noopener noreferrer">GitHub - zyedidia/eget: Easily install prebuilt binaries from GitHub.</a></li>
 <li><a href="https://github.com/pages-cms/pages-cms" target="_blank" rel="noopener noreferrer">GitHub - pages-cms/pages-cms: The No-Hassle CMS for Static Sites Generators</a></li>
 <li><a href="https://github.com/SteamRE/DepotDownloader" target="_blank" rel="noopener noreferrer">GitHub - SteamRE/DepotDownloader: Steam depot downloader utilizing the SteamKit2 library.</a></li>
+<li><a href="https://github.com/jayfunc/BetterLyrics/releases/tag/v1.2.309.0" target="_blank" rel="noopener noreferrer">Release v1.2.309.0 · jayfunc/BetterLyrics · GitHub</a></li>
 </ul>
 <h2 id="schedule" tabindex="-1"><a class="header-anchor" href="#schedule"><span>Schedule</span></a></h2>
 <ul>
@@ -49,6 +50,7 @@
 <li><a href="https://jursin.github.io/Awesome-Class-Softwares-Web/" target="_blank" rel="noopener noreferrer">首页 | Awesome-Class-Softwares</a></li>
 <li><a href="https://forum.smart-teach.cn/" target="_blank" rel="noopener noreferrer">智教联盟论坛</a></li>
 <li><a href="https://github.com/examaware/ExamSchedule" target="_blank" rel="noopener noreferrer">GitHub - ExamAware/ExamSchedule: 静态版本的考试看板，可自行部署</a></li>
+<li><a href="https://github.com/HelloGaoo/SeevvoDownloader" target="_blank" rel="noopener noreferrer">GitHub - HelloGaoo/SeevvoDownloader: SEEVVO全家桶一剑下崽弃 · GitHub</a></li>
 </ul>
 </div></template>
 

@@ -48,3 +48,8 @@
 - [osu](https://osu.ppy.sh/)
 - [GitHub - SteamRE/DepotDownloader: Steam depot downloader utilizing the SteamKit2 library.](https://github.com/SteamRE/DepotDownloader)
 - [imwaitingnow/WorkshopDL: WorkshopDL - The Best Steam Workshop Downloader](https://github.com/imwaitingnow/WorkshopDL)
+- [Home - SteamGridDB](https://www.steamgriddb.com/)
+- [GitHub - hexianWeb/CubeCity: A city waiting to be built by you 🏙️🔨✨. Threejs Version (一个等着被你建造的城市)](https://github.com/hexianWeb/CubeCity)
+- [桌游合集 - game.hullqin.cn](https://game.hullqin.cn)
+- [蒸汽游戏宝库 - 高质量Steam单机游戏下载站](https://www.steambk.com)
+- [skywind3000/preserve-cd: Game Preservation Project](https://github.com/skywind3000/preserve-cd)

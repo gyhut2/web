@@ -117,6 +117,7 @@
 - [机械动力6.0整合 - 我的世界 整合包](https://bbsmc.net/modpack/purecreate6.0)
 - [空中厕所2](https://github.com/Altnoir/PoopSkyMod)
 - [[RNA]路网通途 / 更好的我的世界铁路 (Railway Network Access) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/modpack/885.html)
+- [新：模拟大都市 | XyeBBS - 我的世界中文论坛](https://www.xyebbs.com/res-id/NSKT?tab=description)
 
 ## 插件
 - [yitian-mod-1.0.0.jar ps:hee5](https://wwiu.lanzouu.com/ieXNo2wy5itg)

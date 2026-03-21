@@ -13,6 +13,7 @@
 <p>请查看 <RouteLink to="/bookmarks/lx-music.html">LX Music</RouteLink></p>
 <h2 id="🎶-other-music" tabindex="-1"><a class="header-anchor" href="#🎶-other-music"><span>🎶 Other Music</span></a></h2>
 <p>请查看 <RouteLink to="/bookmarks/other-music.html">Other Music</RouteLink></p>
+<p>另外，你也可以访问 <a href="http://cqxy.qzz.io/1index.html" target="_blank" rel="noopener noreferrer">老板index</a>。</p>
 </div></template>
 
 

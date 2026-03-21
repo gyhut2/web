@@ -1,6 +1,5 @@
-<template><div><h1 id="收藏夹栏" tabindex="-1"><a class="header-anchor" href="#收藏夹栏"><span>收藏夹栏</span></a></h1>
+<template><div><h1 id="others" tabindex="-1"><a class="header-anchor" href="#others"><span>Others</span></a></h1>
 <ul>
-<li><a href="https://tubals.tech/" target="_blank" rel="noopener noreferrer">好东西</a></li>
 <li><a href="https://www.bilibili.com/video/BV1pgqbYJE19/" target="_blank" rel="noopener noreferrer">[4K, 2160p] Windows 11 官方宣传片_哔哩哔哩_bilibili</a></li>
 <li><a href="https://www.mcnav.net/" target="_blank" rel="noopener noreferrer">MCNav | MC导航网 | Minecraft 网址导航站 | MC工具大全</a></li>
 <li><a href="https://www.qiwangming.com/hxw/" target="_blank" rel="noopener noreferrer">火星文转换器-火星文在线转换工具</a></li>
@@ -15,22 +14,17 @@
 <li><a href="https://map.baidu.com/" target="_blank" rel="noopener noreferrer">百度地图</a></li>
 <li><a href="https://dailybing.com/" target="_blank" rel="noopener noreferrer">每日必应壁纸 - DailyBing.com</a></li>
 <li><a href="https://www.bilibili.com/read/cv14194354/?from=search&amp;spm_id_from=333.337.0.0" target="_blank" rel="noopener noreferrer">[你的名字] 壁纸 4K 景物篇 - 哔哩哔哩</a></li>
-<li><a href="https://space.bilibili.com/256237759?spm_id_from=333.788.0.0" target="_blank" rel="noopener noreferrer">我叫小渔人的个人空间-我叫小渔人个人主页-哔哩哔哩视频</a></li>
-<li><a href="https://www.8bitdash.com/#" target="_blank" rel="noopener noreferrer">8bitdash</a></li>
 <li><a href="https://www.tiangong.cn/" target="_blank" rel="noopener noreferrer">天工AI-搜索、对话、写作、文档分析、画画、做PPT的全能AI助手</a></li>
 <li><a href="https://wy.668wan.com/sgcb/b4ncrf/index.html?uid=gdtCS-66&amp;suid=04&amp;qz_gdt=sksgszt7aiaogzqyzmnq&amp;xj_pos_type=5" target="_blank" rel="noopener noreferrer">爆传奇，一刀88888光柱，秒怪爆极品，满屏七彩光柱，直击灵魂的快感！高</a></li>
-<li><a href="https://www.iesdouyin.com/share/note/7411803131455081767/?region=CN&amp;mid=7408153313739114513&amp;u_code=1fhbfbb45770&amp;did=MS4wLjABAAAACASDtNRI2kRGqODpYIsn8lFhcc9BKAbSmkTqez0kXG8Zza7-TTdy_9HjDytOq6Cl&amp;iid=MS4wLjABAAAASeQV0kIUykyMLLCdmoGFfVPmwie1Usn80BHe47FQ7i7RbNlGDNmLgntR0H_mVlxQ&amp;with_sec_did=1&amp;titleType=title&amp;schema_type=37&amp;share_sign=.vwZkfPs8oyF7Z.CHMAvQcDL02dsXxLkxJ.8.frxw2Y-&amp;share_version=310400&amp;ts=1725760841&amp;from_aid=1128&amp;from_ssr=1&amp;utm_source=copy&amp;utm_campaign=client_share&amp;utm_medium=android&amp;app=aweme&amp;activity_info=%7B%22social_author_id%22%3A%221522160754764348%22%2C%22social_share_id%22%3A%221605741214961944_1725760952654%22%2C%22social_share_time%22%3A%221725760952%22%2C%22social_share_user_id%22%3A%221605741214961944%22%7D&amp;share_extra_params=%7B%22schema_type%22%3A%2237%22%7D" target="_blank" rel="noopener noreferrer">生活并不需要那么多的&quot;意义&quot;，热爱旅行或是热爱游戏都没有错。 - 抖音</a></li>
 <li><a href="https://lkssite.vip/" target="_blank" rel="noopener noreferrer">LKs 网站推荐合集</a></li>
 <li><a href="https://www.lzpanx.com/" target="_blank" rel="noopener noreferrer">懒盘(网盘)搜索 - 提供夸克网盘|阿里云盘|迅雷网盘的资源</a></li>
 <li><a href="https://youquhome.com/page/1/" target="_blank" rel="noopener noreferrer">有趣网址之家 - 收藏全球最有趣的网站</a></li>
 <li><a href="http://www.xepaper.com/lpb/" target="_blank" rel="noopener noreferrer">梁平日报数字报-一版要闻</a></li>
 <li><a href="https://huawei.com.tw/earth" target="_blank" rel="noopener noreferrer">huawei.com.tw</a></li>
-<li><a href="https://www.bilibili.com/video/BV1MS421d7uz?p=2&amp;vd_source=783e20333a08a56783c902ab3ce4923b" target="_blank" rel="noopener noreferrer">02.Visual Studio开发环境搭建_哔哩哔哩_bilibili</a></li>
 <li><a href="https://www.cheatengine.org/" target="_blank" rel="noopener noreferrer">Cheat Engine</a></li>
 <li><a href="https://cli.im/deqr#:~:text=%E5%85%8D%E8%B4%B9%E5%9C%A8%E7%BA%BF%E4%BA%8C%E7%BB%B4%E7%A0%81%E8%A7%A3%E7%A0%81%E5%99%A8" target="_blank" rel="noopener noreferrer">草料二维码解码器</a></li>
 <li><a href="https://www.soon321.com/" target="_blank" rel="noopener noreferrer">软件下载网</a></li>
 <li><a href="https://www.tianditu.gov.cn/" target="_blank" rel="noopener noreferrer">国家地理信息公共服务平台 天地图</a></li>
-<li><a href="https://www.52pojie.cn/thread-1768343-1-2.html" target="_blank" rel="noopener noreferrer">【扩展插件】绕过网页订阅付费的屏障 - 吾爱破解 - 52pojie.cn</a></li>
 <li><a href="https://steamdb.info/search/" target="_blank" rel="noopener noreferrer">Search · SteamDB</a></li>
 <li><a href="https://www.aigc.cn/favorites/searchengine" target="_blank" rel="noopener noreferrer">AI搜索引擎 - 为您提供智能、高准确度的搜索体验 | AIGC工具导航</a></li>
 <li><a href="http://obs.cn/" target="_blank" rel="noopener noreferrer">OBSCN - 中文OBS教程及相关下载 OBS软件</a></li>
@@ -40,7 +34,6 @@
 <li><a href="https://www.bilibili.com/opus/987697832219639846" target="_blank" rel="noopener noreferrer">Cheat Engine安装&amp;汉化教程 - 哔哩哔哩</a></li>
 <li><a href="https://bbs.steamtools.net/" target="_blank" rel="noopener noreferrer">论坛 - Powered by Discuz!</a></li>
 <li><a href="https://youquhome.com/page/1" target="_blank" rel="noopener noreferrer">有趣网址之家 - 收藏全球最有趣的网站</a></li>
-<li><a href="https://www.bilibili.com/video/BV1pr421t7uD?spm_id_from=333.788.videopod.sections&amp;vd_source=783e20333a08a56783c902ab3ce4923b" target="_blank" rel="noopener noreferrer">【愚人节特辑】&quot;你被骗了&quot;自动拦截 (C++)_哔哩哔哩_bilibili</a></li>
 <li><a href="https://wormwake.lanzout.com/iogXo1gtg8de" target="_blank" rel="noopener noreferrer">b站弹幕BulletCommentDisplay_v1.0.zip   bcd1</a></li>
 <li><a href="https://www.bilibili.com/video/BV1Nd9KYMEkS/?spm_id_from=333.1007.tianma.2-1-4.click&amp;vd_source=783e20333a08a56783c902ab3ce4923b" target="_blank" rel="noopener noreferrer">【活全家程序】构史句子生成器︒_哔哩哔哩_bilibili</a></li>
 <li><a href="https://www.bilibili.com/video/BV1Ca411e7au/?spm_id_from=333.337.search-card.all.click&amp;vd_source=783e20333a08a56783c902ab3ce4923b" target="_blank" rel="noopener noreferrer">如何以正确的姿势下载全站的视频弹幕（包括电影和番剧）_哔哩哔哩_bilibili</a></li>
@@ -48,7 +41,6 @@
 <li><a href="https://www.gamefreer.com/page/157/" target="_blank" rel="noopener noreferrer">GameFreer资源网 – 第 157 页 – 永久免费的高质量游戏网站</a></li>
 <li><a href="https://www.bilibili.com/video/BV12VuizQEhg/?spm_id_from=333.1007.tianma.1-1-1.click&amp;vd_source=783e20333a08a56783c902ab3ce4923b" target="_blank" rel="noopener noreferrer">[GameTame]如何获得Minecraft激活码（礼品代码）教程_哔哩哔哩bilibili_我的世界_演示</a></li>
 <li><a href="https://so.252035.xyz/" target="_blank" rel="noopener noreferrer">PanSou 盘搜</a></li>
-<li><a href="https://pan.baidu.com/s/1o8qRqR4UeuMXWt3zUTBt-w" target="_blank" rel="noopener noreferrer">redzone.pptx_免费高速下载|百度网盘-分享无限制</a></li>
 <li><a href="https://buyanbuyan.com/" target="_blank" rel="noopener noreferrer">不言不厌-分享实用资源</a></li>
 <li><a href="https://carrilson.com/?id=7" target="_blank" rel="noopener noreferrer">【铁路软件】全自动铁路客运广播系统Beta1.3发布！ - 铁道世界 - Carrilson的个人站</a></li>
 <li><a href="https://www.bilibili.com/opus/893836428900827156" target="_blank" rel="noopener noreferrer">Microsoft 365太贵？手把手教你免费安装激活 - 哔哩哔哩</a></li>
@@ -68,6 +60,7 @@
 <li><a href="https://wormwake.lanzout.com/iMGVt1tg62uf" target="_blank" rel="noopener noreferrer">AntiRick_rollPopup.exe  3sve</a></li>
 <li><a href="https://mirrors.tuna.tsinghua.edu.cn/#" target="_blank" rel="noopener noreferrer">清华大学开源软件镜像站 | Tsinghua Open Source Mirror</a></li>
 <li><a href="https://app.sr-studio.cn/" target="_blank" rel="noopener noreferrer">SR思锐 产品发布页</a></li>
+<li><a href="https://typewords.cc/" target="_blank" rel="noopener noreferrer">Type Words 官网 - 词文记 | 单词跟打 · 文章跟打</a></li>
 </ul>
 </div></template>
 

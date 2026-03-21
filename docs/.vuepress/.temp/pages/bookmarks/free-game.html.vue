@@ -48,6 +48,11 @@
 <li><a href="https://osu.ppy.sh/" target="_blank" rel="noopener noreferrer">osu</a></li>
 <li><a href="https://github.com/SteamRE/DepotDownloader" target="_blank" rel="noopener noreferrer">GitHub - SteamRE/DepotDownloader: Steam depot downloader utilizing the SteamKit2 library.</a></li>
 <li><a href="https://github.com/imwaitingnow/WorkshopDL" target="_blank" rel="noopener noreferrer">imwaitingnow/WorkshopDL: WorkshopDL - The Best Steam Workshop Downloader</a></li>
+<li><a href="https://www.steamgriddb.com/" target="_blank" rel="noopener noreferrer">Home - SteamGridDB</a></li>
+<li><a href="https://github.com/hexianWeb/CubeCity" target="_blank" rel="noopener noreferrer">GitHub - hexianWeb/CubeCity: A city waiting to be built by you 🏙️🔨✨. Threejs Version (一个等着被你建造的城市)</a></li>
+<li><a href="https://game.hullqin.cn" target="_blank" rel="noopener noreferrer">桌游合集 - game.hullqin.cn</a></li>
+<li><a href="https://www.steambk.com" target="_blank" rel="noopener noreferrer">蒸汽游戏宝库 - 高质量Steam单机游戏下载站</a></li>
+<li><a href="https://github.com/skywind3000/preserve-cd" target="_blank" rel="noopener noreferrer">skywind3000/preserve-cd: Game Preservation Project</a></li>
 </ul>
 </div></template>
 
